@@ -4,7 +4,7 @@
 ## Work with a partner to create your own Rails app from scratch! 
 
 ### Requirements:
-- At least three models comprising a M2M relationship
+- At least three models comprising a many-to-many relationship
 - Full CRUD on both of the endpoints (not necessarily join table)
 - A landing page (homepage) at `/`
 - An "About Page" at `/about`
